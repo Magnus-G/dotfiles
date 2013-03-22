@@ -1,0 +1,9 @@
+[color]
+	ui = auto
+[alias]
+  co = checkout
+[user]
+	name = Magnus Gyllensward
+	email = magnus@thoughtbot.com
+[credential]
+	helper = osxkeychain
