@@ -26,9 +26,6 @@
 coverage
 .tddium*
 
-# Ignore bin
-/bin
-
 # Logs and databases #
 ######################
 *.log
